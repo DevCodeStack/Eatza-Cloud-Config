@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Cloud-Config
+  profiles:
+    active:
+    - local
+  
